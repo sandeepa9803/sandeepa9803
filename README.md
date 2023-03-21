@@ -14,6 +14,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
 
+<!-- world animation -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
