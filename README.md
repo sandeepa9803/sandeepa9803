@@ -15,7 +15,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=WELCOME+TO+MY+PROFILE+.+.+.;+.+.+.&center=true"></a> </div>
 
 <!-- world animation -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa9803&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa9803" /></p>
+<img align="center" src="https://user-images.githubusercontent.com/73876759/153703309-74e2fbb8-d44f-4751-ab9f-0e3a0fbddf0b.gif" width="150">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
