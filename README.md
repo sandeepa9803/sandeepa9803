@@ -30,9 +30,8 @@
 <br>
 <!-- GitHub Stats-->
 <div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sandeepa9803&theme=radical&show_icons=true&include_all_commits=true&hide_border=true" /></div>
-<!--<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepa9803&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="sandeepa9803" /></p>-->
-<br>
 
-<p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sandeepa9803&show_icons=true&locale=en&theme=dark&hide_border=true" alt="sandeepa9803" /></p>
-<br>
+<!--GitHub Languages-->
+<div align="center"><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa9803&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
+
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa9803&theme=dark&hide_border=true" alt="sandeepa9803" /></p>
